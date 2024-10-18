@@ -1,6 +1,7 @@
 <script setup></script>
 
 <template>
+  // 커밋을 위한 주석
   <nav
     class="navbar navbar-expand-lg bg-body-tertiary fixed-top"
     data-bs-theme="dark"
