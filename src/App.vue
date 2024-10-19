@@ -1,7 +1,6 @@
 <script setup></script>
 
 <template>
-  // 커밋을 위한 주석
   <nav
     class="navbar navbar-expand-lg bg-body-tertiary fixed-top"
     data-bs-theme="dark"
@@ -40,7 +39,7 @@
         </figure>
 
         <div class="text col-md-6">
-          <h2>Hello,<br />I'm Seoyeon</h2>
+          <h2>Hello,<br />I'm Hasesy <br />Frontend-Engineer</h2>
         </div>
       </div>
     </div>
